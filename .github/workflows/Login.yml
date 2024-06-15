@@ -1,5 +1,8 @@
 name: Login
 
+runs:
+  using: 'node20'
+
 on:
   workflow_dispatch:
   
